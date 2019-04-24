@@ -1,2 +1,2 @@
 
-print "bye new noa 2 world"
+print "bye new noa 2 world  whatsapp "
